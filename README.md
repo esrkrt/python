@@ -1,2 +1,1 @@
-# python-proje1
-proje1
+# python
